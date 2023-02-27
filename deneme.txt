@@ -1,0 +1,3 @@
+if(F==F){F=A}
+else if(F==F){F=A}
+else{F=A}
